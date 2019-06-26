@@ -1,2 +1,2 @@
 # Deep-Q-learning
-Playing Atari game (breakout) with deep reinforcement learning 
+Playing Atari Breakout with deep reinforcement learning
